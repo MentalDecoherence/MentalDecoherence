@@ -1,4 +1,4 @@
-# mental.decoherence
+# MentalDecoherence 
 
 
 ## 🌐 Socials:
